@@ -2,7 +2,7 @@
   "name": "client_shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/duy0602/website_thoi_trang.git",
+ 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
